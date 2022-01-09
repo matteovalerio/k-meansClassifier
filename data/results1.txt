@@ -1,0 +1,802 @@
+=== IRIS DATA RESULTS ===
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.36363636363636365
+
+TEST SET RESULTS:
+N°correct: 7
+N°incorrect: 7
+Tot: 14
+Percentage correct: 50.0 %
+Percentage incorrect: 50.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.46153846153846156
+
+Class 1
+TPR: 0.0
+FPR: 0.25
+
+Class 2
+TPR: 1.0
+FPR: 0.2222222222222222
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.36363636363636365
+
+TEST SET RESULTS:
+N°correct: 12
+N°incorrect: 2
+Tot: 14
+Percentage correct: 85.71428680419922 %
+Percentage incorrect: 14.285714149475098 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 0.0
+FPR: 0.42857142857142855
+
+Class 2
+TPR: 1.0
+FPR: 0.29411764705882354
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.391304347826087
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.46153846153846156
+
+Class 1
+TPR: 1.0
+FPR: 0.3
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+Accuracy 30%: 93.57142868041993
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.3333333333333333
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.46153846153846156
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 9
+N°incorrect: 5
+Tot: 14
+Percentage correct: 64.28571319580078 %
+Percentage incorrect: 35.71428680419922 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 0.0
+FPR: 0.32142857142857145
+
+Class 2
+TPR: 1.0
+FPR: 0.25
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.36363636363636365
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.3333333333333333
+
+TEST SET RESULTS:
+N°correct: 4
+N°incorrect: 10
+Tot: 14
+Percentage correct: 28.571428298950195 %
+Percentage incorrect: 71.42857360839844 %
+
+
+Class 0
+TPR: 0.0
+FPR: 0.14285714285714285
+
+Class 1
+TPR: 1.0
+FPR: 0.42857142857142855
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+Accuracy 20%: 89.2857141494751
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.391304347826087
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 2
+TPR: 1.0
+FPR: 0.391304347826087
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 1
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 2
+TPR: 1.0
+FPR: 0.48148148148148145
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.46153846153846156
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.3333333333333333
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.3333333333333333
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.3333333333333333
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 2
+TPR: 1.0
+FPR: 0.391304347826087
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+Accuracy 10%: 100.0
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+
+TEST SET RESULTS:
+N°correct: 9
+N°incorrect: 5
+Tot: 14
+Percentage correct: 64.28571319580078 %
+Percentage incorrect: 35.71428680419922 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.3076923076923077
+
+Class 2
+TPR: 0.0
+FPR: 0.32142857142857145
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.44
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.3333333333333333
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.2631578947368421
+
+Class 1
+TPR: 1.0
+FPR: 0.46153846153846156
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 2
+TPR: 1.0
+FPR: 0.4166666666666667
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.391304347826087
+
+Class 1
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.36363636363636365
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.46153846153846156
+
+Class 1
+TPR: 1.0
+FPR: 0.2631578947368421
+
+Class 2
+TPR: 1.0
+FPR: 0.44
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 1
+TPR: 1.0
+FPR: 0.4166666666666667
+
+Class 2
+TPR: 1.0
+FPR: 0.36363636363636365
+
+TEST SET RESULTS:
+N°correct: 14
+N°incorrect: 0
+Tot: 14
+Percentage correct: 100.0 %
+Percentage incorrect: 0.0 %
+
+
+Class 0
+TPR: 1.0
+FPR: 0.36363636363636365
+
+Class 1
+TPR: 1.0
+FPR: 0.44
+
+Class 2
+TPR: 1.0
+FPR: 0.391304347826087
+Accuracy 5%: 96.42857131958007
